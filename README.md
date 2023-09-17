@@ -1,1 +1,1 @@
-# electron-nim
+# ckeditor-nim
