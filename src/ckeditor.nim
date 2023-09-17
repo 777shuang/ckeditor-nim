@@ -1,5 +1,5 @@
-# This is just an example to get you started. A typical binary package
-# uses this file as the main entry point of the application.
+import webgui
 
-when isMainModule:
-  echo("Hello, World!")
+let app = newWebView(currentHtmlPath())
+app.run()
+app.exit()
