@@ -5,7 +5,7 @@ author        = "777shuang"
 description   = "CKEditor"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["ckeditor_nim"]
+bin           = @["ckeditor"]
 
 
 # Dependencies
